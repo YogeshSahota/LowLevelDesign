@@ -107,8 +107,14 @@ File System
 
 👉 These alone cover:
 
-Strategy
+Strategy - done
 State
 Observer
 Chain of Responsibility
 Composite
+
+👉 Design Patterns Completed:
+
+Strategy
+Factory
+Singleton
