@@ -1,0 +1,114 @@
+🟢 EASY (Core OOP + Basic SOLID)
+
+Start here. These build your foundation.
+
+1. Parking Lot
+
+👉 Classes, relationships, extensibility
+
+2. Library Management System
+
+👉 CRUD + object relationships
+
+3. Tic-Tac-Toe
+
+👉 Game state, clean separation of logic
+
+4. Logger System
+
+👉 First exposure to Chain of Responsibility
+
+5. URL Shortener
+
+👉 Service abstraction, simple design thinking
+
+🟡 MEDIUM (Patterns + Real Modeling)
+
+Now you start thinking like an engineer.
+
+6. Vending Machine
+
+👉 State Pattern (very important)
+
+7. Splitwise
+
+👉 Strategy Pattern, extensibility
+
+8. Notification System
+
+👉 Observer + Strategy combo
+
+9. Elevator System
+
+👉 Scheduling + real-world constraints
+
+10. Cache (LRU)
+
+👉 Data structures + design balance
+
+🟠 MEDIUM-HARD (Real Systems + Tradeoffs)
+
+Now interviews get interesting.
+
+11. Rate Limiter
+
+👉 Multiple strategies, performance thinking
+
+12. Ride Sharing (Uber basic)
+
+👉 Matching logic + scalability mindset
+
+13. Food Delivery System
+
+👉 Order lifecycle + multiple actors
+
+14. Online Auction System
+
+👉 Real-time updates (Observer heavy)
+
+15. Chess Game
+
+👉 Complex rules, object interaction
+
+🔴 HARD (Advanced + System Thinking)
+
+These are usually for strong candidates.
+
+16. File System
+
+👉 Composite Pattern (must know)
+
+17. Multi-Level Cache
+
+👉 Layered architecture
+
+18. Airline Reservation System
+
+👉 Concurrency + consistency
+
+19. Distributed Job Scheduler
+
+👉 System design crossover
+
+20. Collaborative Editor (Google Docs)
+
+👉 Real-time sync, hardest to model
+
+🎯 How to Use This List (Important)
+
+🔥 Must Cover (in order)
+Parking Lot
+Logger
+Vending Machine
+Splitwise
+Elevator
+Rate Limiter
+File System
+
+👉 These alone cover:
+
+Strategy
+State
+Observer
+Chain of Responsibility
+Composite
