@@ -111,7 +111,7 @@ Strategy - done
 State
 Observer - done
 Chain of Responsibility
-Composite
+Composite - done
 
 👉 Design Patterns Completed:
 
