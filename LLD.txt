@@ -99,8 +99,8 @@ These are usually for strong candidates.
 🔥 Must Cover (in order)
 Parking Lot
 Logger
-Vending Machine
-Splitwise
+Vending Machine - 
+Splitwise - 
 Elevator
 Rate Limiter
 File System
@@ -110,7 +110,7 @@ File System
 Strategy - done
 State
 Observer - done
-Chain of Responsibility
+Chain of Responsibility - done
 Composite - done
 
 👉 Design Patterns Completed:
@@ -120,3 +120,9 @@ Factory
 Singleton
 Observer
 Command
+
+👉 Review Problems:
+
+Discount Coupon Engine
+Iterator Design Pattern
+Fly Weight Design Pattern
