@@ -18,7 +18,7 @@ Start here. These build your foundation.
 
 👉 First exposure to Chain of Responsibility
 
-5. URL Shortener
+5. URL Shortener - Done
 
 👉 Service abstraction, simple design thinking
 
