@@ -2,19 +2,19 @@
 
 Start here. These build your foundation.
 
-1. Parking Lot
+1. Parking Lot - Done
 
 👉 Classes, relationships, extensibility
 
-2. Library Management System
+2. Library Management System - Done
 
 👉 CRUD + object relationships
 
-3. Tic-Tac-Toe
+3. Tic-Tac-Toe - Done
 
 👉 Game state, clean separation of logic
 
-4. Logger System
+4. Logger System - Done
 
 👉 First exposure to Chain of Responsibility
 
@@ -30,11 +30,11 @@ Now you start thinking like an engineer.
 
 👉 State Pattern (very important)
 
-7. Splitwise
+7. Splitwise - done
 
 👉 Strategy Pattern, extensibility
 
-8. Notification System
+8. Notification System - done
 
 👉 Observer + Strategy combo
 
@@ -58,7 +58,7 @@ Now interviews get interesting.
 
 👉 Matching logic + scalability mindset
 
-13. Food Delivery System
+13. Food Delivery System - done
 
 👉 Order lifecycle + multiple actors
 
@@ -99,8 +99,8 @@ These are usually for strong candidates.
 🔥 Must Cover (in order)
 Parking Lot
 Logger
-Vending Machine - 
-Splitwise - 
+Vending Machine - done
+Splitwise - done
 Elevator
 Rate Limiter
 File System
